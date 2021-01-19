@@ -35,8 +35,6 @@
 <img align="left" alt="Spark" width="70px" src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-hd.png" />
 <img align="left" alt="Argo Workflows" width="40px" src="https://argoproj.github.io/static/argo-wheel.23b3ad84.png" />
 <img align="left" alt="Docker"  width="70px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png?itok=erja9lKc" />
-<img align="left" alt="GCP" width="70px"  src="https://img3.freepng.fr/dy/bed4ae6cc4e81e715c162925606fb022/L0KzQYm3V8A2N6dtgZH0aYP2gLBuTfdwd5hxfZ9sbHB4dH73jPF1bpD3hZ9sbHB4dH7qjB1xfaVuhtk2Z3Byd73sTgNmaaNoRadrM3XoRYO3UMhmOWY4RqsAMkOzQYa7UcU0OGk5UKc9NEC2RoW1kP5o/kisspng-google-cloud-platform-cloud-computing-google-searc-5b3ee52008e153.9523015415308485440364.png" />
-<img align="left" alt="OVH" width="140px"  hight="36px" src="https://www.ovh.com/fr/images/newLogos/logo-ovh.png" />
 <img align="left" alt="Python" width="140px" src="https://www.python.org/static/img/python-logo@2x.png" />
 
 </td>
